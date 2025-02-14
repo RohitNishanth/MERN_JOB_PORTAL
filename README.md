@@ -2,7 +2,7 @@
 
 🚀 **A modern, high-performance eCommerce platform** built with **React, Redux, Django, and MySQL** to deliver a seamless shopping experience.  
 
-![eCommerce Banner]([https://source.unsplash.com/featured/?shopping,ecommerce](https://drive.google.com/file/d/10LxjfsDrdrHGETjvsaRdNeIMHEHa4DbU/view?usp=sharing))  
+![eCommerce Banner](https://github.com/RohitNishanth/ecommerce/blob/main/Ecommerce.png)  
 
 ---
 
@@ -72,12 +72,12 @@ npm start
 ## 🖼️ Screenshots  
 
 ### 🏠 Home Page  
-![Home]([https://source.unsplash.com/featured/?website,shop](https://drive.google.com/file/d/1anyfK44A9ulbHptN0lo_dRzefiM29WeY/view?usp=sharing))  
+![Home](https://github.com/RohitNishanth/ecommerce/blob/main/home.png)  
 
 ### 🛍️ Product Listing  
 ![Product Listing](https://github.com/RohitNishanth/ecommerce/blob/main/product.png)
 ### 🛒 Shopping Cart  
-![Cart]([https://source.unsplash.com/featured/?cart](https://drive.google.com/file/d/1GTvyBp9GYbFRgjjadxxWMj56ABcaX3jQ/view?usp=sharing))  
+![Cart](https://github.com/RohitNishanth/ecommerce/blob/main/cart.png)  
 
 ---
 
