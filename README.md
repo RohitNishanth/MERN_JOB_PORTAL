@@ -23,7 +23,7 @@
 | **Frontend**  | **Backend**   | **Database**   | **Others** |
 |--------------|--------------|--------------|------------|
 | ⚛️ React.js  | 🐍 Django   | 🗄️ MySQL   | Redux Toolkit |
-| 🎨 Tailwind CSS | 🌐 REST API | 🛠️ PostgreSQL (Optional) | JWT Auth |
+| 🎨 Tailwind CSS | 🌐 REST API | 🛠️ PostgreSQL | JWT Auth |
 | 🚀 React Router | 🔥 Django ORM | 🖥️ Docker | CI/CD |
 
 ---
